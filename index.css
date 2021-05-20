@@ -94,7 +94,6 @@
 .menu-nav-contents {
     display: flex;
     align-content: flex-start;
-    max-width: 200px;
 }
 nav {
 	display: grid;
